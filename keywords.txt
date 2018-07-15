@@ -6,8 +6,8 @@
 # Datatypes (KEYWORD1)
 ###########################################
 
-bigint_t		KEYWORD1
-rsa_publickey_t		KEYWORD1
+bigint_t	KEYWORD1
+rsa_publickey_t	KEYWORD1
 rsa_privatekey_t	KEYWORD1
 
 ###########################################
